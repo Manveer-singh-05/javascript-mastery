@@ -25,5 +25,3 @@ console.log(man);
 //6. BigInt - it is used when normal number datatypes cant handle large amount of int so we use it to define the big int we have to use n at the end of the number 
 let m = 12345678902134567890n;
 console.log(m);
-
-//
