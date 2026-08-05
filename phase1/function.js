@@ -32,3 +32,12 @@ let ans = calculatetotal(cart);
 console.log(ans);
 
 
+// argument vs parameter
+function greeting(name){
+    return "hello " + name;
+}
+// int this function name act as paramneter
+console.log(greeting("manveer"));
+// i am passing manveer as an argument
+
+
