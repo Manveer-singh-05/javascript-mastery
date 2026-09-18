@@ -1,4 +1,4 @@
-// falsy and truthy is concept in which we are working with  non boolean variables like ture && 3
+// falsy and truthy is concept in which we are working with  non boolean variables like ture && 3 using logical operator
 
 //so under falsy 
 /*
