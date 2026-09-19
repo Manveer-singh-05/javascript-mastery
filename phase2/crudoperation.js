@@ -29,3 +29,11 @@ posi.insertAdjacentElement("beforebegin",newele);   // just add before the start
 posi.insertAdjacentElement("afterbegin", newele);  // just add after the starting of element or tag
 posi.insertAdjacentElement("beforeend", newele);    // just add before the ending of tag
 posi.insertAdjacentElement("afterend", newele);  // just add after the ending of tag
+
+
+
+
+// delete-> to delete an child we have to use removeChild();
+let parent = document.querySelector('body');
+let child = document.getElementById('fheading');
+parent.removeChild(child);
