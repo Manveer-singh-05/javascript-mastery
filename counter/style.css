@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center; /* Horizontal center */
+    align-items: center;     /* Vertical center */
+}
+
+#box {
+    border: 5px solid orange;
+    border-radius: 16px;
+    display: flex;
+    padding: 10px;
+    text-align: center;
+    color: aqua;
+    background-color: bisque;
+    gap: 100px;
+}
+
+
+button {
+    padding: 12px 24px; /* Increases button size */
+    font-size: 20px;    /* Increases text size */
+    width: 100px;       /* Sets button width */
+    height: 70px;       /* Sets button height */
+    cursor: pointer;
+}
+
+
+#num {
+    font-size: 25px;
+    font-weight: bold;
+}
