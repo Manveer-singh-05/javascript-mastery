@@ -344,4 +344,3 @@ By the end of this repository, I will be able to build:
 > "Learn concepts by building real projects, not by memorizing syntax."
 
 
-
